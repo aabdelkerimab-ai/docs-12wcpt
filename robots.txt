@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-kdg0tx.plcwin.xyz/sitemap.xml
